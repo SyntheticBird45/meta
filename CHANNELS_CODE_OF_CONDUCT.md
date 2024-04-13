@@ -24,10 +24,10 @@ Examples of unacceptable behavior include::
 * Harassing and/or Insulting another member.
 * Doxxing.
 
-Some of these unacceptable behavior have different severity according to the context and channel. Some channels are more lenient or strict than other, and
+Some of these unacceptable behaviors have different severity according to the context and channel. Some channels are more lenient or strict than other, and
 are indicated to members.
 
-More generally, acting stupidly cover the definition of a bad actor, as defined in the CONTRIBUTING policy of The Monero Project:
+More generally, this list behaviors cover the definition of a bad actor, as defined in the CONTRIBUTING policy of The Monero Project:
 
 > A bad actor is someone who repeatedly ignores the rules and culture of the project, who is needlessly argumentative or hostile, or who is offensive, and who is unable to self-correct their behavior when asked to do so by others.
 
@@ -39,7 +39,7 @@ acceptable behavior and will take action in response to violations.
 Community moderators have the right and responsibility to remove messages and medias posted by the malicious member 
 and will communicate reasons for moderation decisions when appropriate.
 
-Community moderators have the right and responsibility to discuss actions with other moderators when the community
+Community moderators have the right and responsibility to discuss actions with other moderators, when the community
 is pleading revisions.
 
 ## Scope
