@@ -15,11 +15,10 @@ Examples of behavior that contributes at being a good member in the Matrix/IRC s
 * Accepting constructive feedback.
 * Accepting responsibility and apologizing to those affected by our mistakes.
 * Respecting each channels intents.
-* Having read: "All I Really Need to Know I Learned in Kindergarten" (ISBN: 978-0-8041-0526-2)
 
 Examples of unacceptable behavior include::
 
-* Sexual discussions or Pornography sharing in inappropriate channels.
+* Sexual-related discussions in primary channels or Pornography sharing.
 * Pattern of Trolling and Spamming, at which point it disrupt the channel.
 * Harassing and/or Insulting another member.
 * Doxxing.
@@ -27,9 +26,21 @@ Examples of unacceptable behavior include::
 Some of these unacceptable behaviors have different severity according to the context and channel. Some channels are more lenient or strict than other, and
 are indicated to members.
 
-More generally, this list behaviors cover the definition of a bad actor, as defined in the CONTRIBUTING policy of The Monero Project:
+More generally, this list of bad behaviors cover the definition of a bad actor, as defined in the CONTRIBUTING policy of The Monero Project:
 
 > A bad actor is someone who repeatedly ignores the rules and culture of the project, who is needlessly argumentative or hostile, or who is offensive, and who is unable to self-correct their behavior when asked to do so by others.
+
+## Community moderators
+
+Community moderators are a set of individuals in the Matrix/IRC community space that have moderation capabilities and engaged themselves
+at contributing to this end. 
+
+- On Matrix, community moderators have the "Moderator" role. They are able to use the "banhammer" (or equivalent) bot account to take actions.
+- On IRC, community moderators have the "+o" (Owner) mode. They are able to use several IRC commands to take actions. Be aware, not all *Owners +o* members are communnity moderators.
+
+### Becoming a moderator or Removing a moderator
+
+The group of moderator is managed by itself. New moderators are added at the existing moderators' discretion. Existing moderators can be removed, if pleaded by the community, at the moderators' discretion.
 
 ## Enforcement Responsibilities
 
@@ -46,6 +57,19 @@ is pleading revisions.
 
 This Code of Conduct applies within The Monero Project's Matrix and Libera IRC channels, 
 that will be refer to as the Community Spaces in the rest of the document.
+
+### What this document intend to be
+
+This document intend to formalize basic rules, so that moderators have easier understanding and protection of their role, 
+as well as setting the expectations of the community members regarding general health of the channels. 
+
+### What this document do not intend to be
+
+This document **DO NOT** intend to describe the IRC and Matrix channels as a *Safe Space* for political affiliations, 
+or marginalized minorities. 
+The monero community is rich, and you'll always find dissident opinions. As long as they are respecting the prior rules, 
+they're allowed to be said in the appropriate channels. Online political discussions mostly never ends well, and members 
+are invited to be more careful during such discourse.
 
 ## Enforcement Guidelines
 
