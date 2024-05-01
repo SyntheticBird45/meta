@@ -65,15 +65,15 @@ when the community pleads for revisions.
 This Code of Conduct applies within The Monero Project's Matrix and Libera IRC channels, 
 which will be referred to as the Community Spaces in the rest of the document.
 
-### What this document intend to be
+### What this document intends to be
 
 This document intends to formalize basic rules so that moderators have easier understanding 
 and protection of their role, as well as setting the expectations of the community members 
 regarding the general health of the channels.
 
-### What this document do not intend to be
+### What this document does not intend to be
 
-This document DOES NOT intend to describe the IRC and Matrix channels as a Safe Space for 
+This document **DOES NOT** intend to describe the IRC and Matrix channels as a Safe Space for 
 political affiliations or marginalized minorities.
 
 The Monero community is rich, and you'll always find dissident opinions. As long as they 
