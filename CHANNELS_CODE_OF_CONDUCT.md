@@ -99,7 +99,7 @@ offensive or unwelcome in the community or specific channel.
 actions.
 
 **Consequence**: A warning with consequences for continued behavior. Malicious member risk to be
-temporary ban of the channel or community space
+temporary banned from the channel or community space
 
 ### 3. Temporary Ban
 
